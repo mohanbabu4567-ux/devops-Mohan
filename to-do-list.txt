@@ -1,0 +1,6 @@
+#1 Send son to School
+#2 Gym
+#3 Dev Ops training
+#4 Office
+#5 work
+#6 Come back to home
