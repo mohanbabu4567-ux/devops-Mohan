@@ -1,5 +1,6 @@
 
 
+
 #1 Send son to School
 #2 Gym
 #3 Dev Ops training
@@ -9,3 +10,5 @@
 #7 Watch TV for sometime
 #8 Eat dinner
 #9 Sleep
+#10 Wake-up
+#11 Repeat the process
